@@ -1,102 +1,108 @@
 {
   "@@last_modified": "2020-07-28T11:17:31.076838",
-  "title": "BMI Hesaplayıcı",
+  "title": "BMI တွက်ချက်",
   "@title": {
     "description": "Title for the app",
     "type": "text",
     "placeholders": {}
   },
-  "gender": "CİNSİYET",
+  "gender": "ကျား/မ",
   "@gender": {
     "description": "",
     "type": "text",
     "placeholders": {}
   },
-  "male": "Erkek",
+  "male": "ကျား",
   "@male": {
     "description": "",
     "type": "text",
     "placeholders": {}
   },
-  "female": "Kadın",
+  "female": "မ",
   "@female": {
     "description": "",
     "type": "text",
     "placeholders": {}
   },
-  "height": "BOY",
+  "height": "အရပ်",
   "@height": {
     "description": "",
     "type": "text",
     "placeholders": {}
   },
-  "weight": "AĞIRLIK",
+  "weight": "ကိုယ်အလေးချိန်",
   "@weight": {
     "description": "",
     "type": "text",
     "placeholders": {}
   },
-  "changeLanguage": "Dili Değiştir",
+  "changeLanguage": "ဘာသာစကားပြောင်းရန်",
   "@changeLanguage": {
     "description": "",
     "type": "text",
     "placeholders": {}
   },
-  "english": "İngilizce",
+  "english": "English",
   "@english": {
     "description": "",
     "type": "text",
     "placeholders": {}
   },
-  "turkish": "Türkçe",
+  "turkish": "မြန်မာ",
   "@turkish": {
     "description": "",
     "type": "text",
     "placeholders": {}
   },
-  "bmiInfoFirst": "Vücut kitle indeksi veya BMI, boyunuza göre sağlıklı bir kilo aralığında olup olmadığınızı belirlemek için kullanılır.",
+  "myanmar": "မြန်မာ",
+  "@myanmar": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "bmiInfoFirst": "Body mass index, or BMI, is used to determine whether you are in a healthy weight range for your height.",
   "@bmiInfoFirst": {
     "description": "",
     "type": "text",
     "placeholders": {}
   },
-  "bmiInfoSecond": "\n* Bu hesaplayıcı hamile kadınlar veya çocuklar için kullanılmamalıdır.",
+  "bmiInfoSecond": "\n* This calculator shouldn't be used for pregnant women or children.",
   "@bmiInfoSecond": {
     "description": "",
     "type": "text",
     "placeholders": {}
   },
-  "yourBmi": "SENİN BMI",
+  "yourBmi": "YOUR BMI",
   "@yourBmi": {
     "description": "",
     "type": "text",
     "placeholders": {}
   },
-  "theBmiChart": "BMI Grafiği",
+  "theBmiChart": "The BMI Chart",
   "@theBmiChart": {
     "description": "",
     "type": "text",
     "placeholders": {}
   },
-  "close": "Kapat",
+  "close": "Close",
   "@close": {
     "description": "",
     "type": "text",
     "placeholders": {}
   },
-  "bmiInterpretationOverweight": "Ağırlığın, normal vücut ağırlığından daha yüksek. Daha fazla egzersiz yapmaya çalış.",
+  "bmiInterpretationOverweight": "You have a higher than normal body weight. Try to exercise more.",
   "@bmiInterpretationOverweight": {
     "description": "",
     "type": "text",
     "placeholders": {}
   },
-  "bmiInterpretationNormal": "Normal bir vücut ağırlığınız var. Bravo!",
+  "bmiInterpretationNormal": "You have a normal body weight. Great job!",
   "@bmiInterpretationNormal": {
     "description": "",
     "type": "text",
     "placeholders": {}
   },
-  "bmiInterpretationUnderweight": "Ağırlığın, normal vücut ağırlığından daha düşük. Biraz daha yiyebilirsin.",
+  "bmiInterpretationUnderweight": "You have a lower than normal body weight. You can eat a bit more.",
   "@bmiInterpretationUnderweight": {
     "description": "",
     "type": "text",

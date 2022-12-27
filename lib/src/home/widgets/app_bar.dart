@@ -59,7 +59,7 @@ class AppBarWidget extends StatelessWidget {
                 children: [
                   Row(
                     children: [
-                      SvgPicture.asset(assetTurkish, height: 20, width: 20),
+                      SvgPicture.asset(assetMyanmar, height: 20, width: 20),
                       const SizedBox(width: 8),
                       Text(
                         l(context).turkish,

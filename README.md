@@ -1,5 +1,10 @@
 # BMI Calculator
 
+New Pacage Name
+
+com.map.allinone
+
+
 [![Codemagic build status](https://api.codemagic.io/apps/61aa396e1f5b14000af8348b/61aa396e1f5b14000af8348a/status_badge.svg)](https://codemagic.io/apps/61aa396e1f5b14000af8348b/61aa396e1f5b14000af8348a/latest_build)
 ![GitHub top language](https://img.shields.io/github/languages/top/halildurmus/bmi-calculator?style=for-the-badge)
 [![CodeFactor](https://www.codefactor.io/repository/github/halildurmus/bmi-calculator/badge?style=for-the-badge)](https://www.codefactor.io/repository/github/halildurmus/bmi-calculator)

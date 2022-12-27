@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 const assetBmiChartImage = 'assets/images/bmi-chart.png';
 const assetEnglish = 'assets/icons/en.svg';
 const assetTurkish = 'assets/icons/tr.svg';
+const assetMyanmar = 'assets/icons/mm.svg';
 
 // Locales
 const localeEnglish = Locale('en');
