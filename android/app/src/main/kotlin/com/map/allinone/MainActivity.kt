@@ -1,4 +1,4 @@
-package com.halildurmus.bmi_calculator
+package com.map.allinone
 
 import io.flutter.embedding.android.FlutterActivity
 
